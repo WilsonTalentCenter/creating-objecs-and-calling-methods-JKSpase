@@ -1,13 +1,10 @@
 Create an intelliJ project for this assignment to do the below(there will be no Mimir for this assignment):
 
-/* for this assigment you are going to practice creating objects and calling methods
+for this assigment you are going to practice creating objects and calling methods
 
 Although not needed you may want to look at 
 https://docs.oracle.com/javase/8/docs/api/java/util/Date.html
 https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
-
-*/
-
 
 // create a Date object called currentDate  using the default constructor with no parameters
 		
@@ -21,7 +18,7 @@ https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
 		
 		// print the value of isBefore followed by a newline character
 
-////////////////
+
 		//create a Scanner object called myScanner,  pass in System.in to as the parameter to the constructor
 		
 		//call the "nextLine" method on the myScanner object save the result into a string variable called resString
@@ -32,4 +29,4 @@ https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
 		
 		//print resString followed by a newline character
 		
-		
+
